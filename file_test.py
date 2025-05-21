@@ -23,4 +23,4 @@ def test_coucou():
 def test_kiki():
   # Fonction test si la résultat renvoie 'kiki'
     output='kiki'
-    assert output == 'kiko'
+    assert output == 'kiki'
